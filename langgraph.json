@@ -1,0 +1,15 @@
+{
+  "dependencies": [
+    "langchain",
+    "langgraph",
+    "langchain-openai",
+    "./src"
+  ],
+  "graphs": {
+    "gacp_cognitive_core": "./src/gacp/cognitive_core/graph.py:build_graph"
+  },
+  "env": "./.env",
+  "dockerfile_lines": [
+    "RUN apt-get update && apt-get install -y python3-dev build-essential"
+  ]
+}
