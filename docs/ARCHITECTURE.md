@@ -320,7 +320,7 @@ The format is an immutable data structure (tuple) circulating between modules an
 
 To validate the architecture's stated properties (game-agnostic, transfer learning, internal world model formation), two fundamentally different game environments are used as experimental testbeds.
 
-#### First Game - Training Environment (Stages 0-3)
+#### First Game - Training Environment
 **Name:** NetHack (ASCII/tileset mode)
 **Role:** First environment for forming basic cognitive mechanisms
 **Reasons for Choice:**
@@ -329,7 +329,7 @@ To validate the architecture's stated properties (game-agnostic, transfer learni
 - High density of cause-effect relationships
 - Minimal requirements for Perception Module in early stages
 
-#### Second Game - Transfer Environment (Stage 4+)
+#### Second Game - Transfer Environment
 **Name:** Factorio (2D)
 **Role:** Second environment for testing transfer learning without changing cognitive core
 **Reasons for Choice:**

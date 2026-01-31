@@ -1,6 +1,6 @@
 # Game-Agnostic Cognitive Player
 
-![Python Version](https://img.shields.io/badge/python-3.13%252B-blue.svg) ![uv](https://img.shields.io/badge/uv-ready-5A45FF.svg) ![License](https://img.shields.io/badge/license-MIT-yellow.svg) [![Learning Focus](https://img.shields.io/badge/Focus-Architectural_Learning-blue)]
+![Python Version](https://img.shields.io/badge/python-3.13%252B-blue.svg) ![uv](https://img.shields.io/badge/uv-ready-5A45FF.svg) ![License](https://img.shields.io/badge/license-MIT-yellow.svg) ![Learning Focus](https://img.shields.io/badge/Focus-Architectural_Learning-blue)
 
 ## 🧠 About This Project
 
