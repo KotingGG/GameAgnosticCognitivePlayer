@@ -1,6 +1,7 @@
 # Game-Agnostic Cognitive Player
 
-> The project is frozen until possibly the summer of 2026.
+> [!WARNING]
+>  The project is frozen until possibly the summer of 2026 because of studies. Sorry
 
 ![Python Version](https://img.shields.io/badge/python-3.13%252B-blue.svg) ![uv](https://img.shields.io/badge/uv-ready-5A45FF.svg) ![License](https://img.shields.io/badge/license-MIT-yellow.svg) ![Learning Focus](https://img.shields.io/badge/Focus-Architectural_Learning-blue)
 
@@ -100,10 +101,10 @@ uv run src/gacp/main.py
 - Learning Through Failure: Agent forms hypotheses, tests them, and updates its world model based on expectation violations.
 - Transfer Learning: Knowledge acquired in NetHack (turn-based roguelike) accelerates adaptation to Factorio (real-time optimization).
 
-## ⚙️ Конфигурация
+## ⚙️ Configuration
 TODO: ...
 
-## 🛠️ Разработка
+## 🛠️ Development
 
 ### Project Structure
 ```
